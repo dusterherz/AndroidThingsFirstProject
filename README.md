@@ -1,4 +1,4 @@
-# android-things-button-blink
+# Android Things - Button Blink
 
 A first try with Android Things. Makes a led blink after pushing a button.
 
